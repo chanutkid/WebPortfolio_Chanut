@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 # Web-Portfolio_Chanut
 # Web-Portfolio_Chanut
 # WebPortfolio_Chanut
+# WebPortfolio_Chanut
